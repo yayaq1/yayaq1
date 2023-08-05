@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack ERP System<br>👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>🤝 I’m looking for help with designing mockups and UI/UX, I tend to focus more on the backend 😁<br>🌱 I’m currently learning how to use Sveltekit to the fullest<br>💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>⚡ Fun fact: I love designing robust, fault tolerant systems :D
+🔭 I’m currently working on a Full Stack ERP System<br>👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>🤝 I’m looking for help with designing mockups and UI/UX, I tend to focus more on the backend 😁<br>🌱 I’m currently learning how to use Sveltekit to the fullest<br>💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
 
 
 ## 🌐 Socials:
