@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a FASTrack, a fully automated recruitment assistant<br>👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>🤝 I’m looking for help with designing mockups and UI/UX 😁<br>🌱 I’m currently learning how to use Sveltekit to the fullest<br>💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
+🔭 I’m currently working on FASTrack, a fully automated recruitment assistant<br>👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>🤝 I’m looking for help with designing mockups for applications 😁<br>🌱 I’m currently learning how to use Sveltekit to the fullest<br>💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
 
 
 ## 🌐 Socials:
