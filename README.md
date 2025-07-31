@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on FASTrack, a fully automated recruitment assistant<br>👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>🤝 I’m looking for help with designing mockups for applications 😁<br>🌱 I’m currently learning how to use Sveltekit to the fullest<br>💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
-
+🌟 I’m bringing Cursor to Pakistan!<br>  
+🔭 I’m currently working on FASTrack, a fully automated recruitment assistant and multiple AI products<br>
+👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>  
+🤝 I’m looking to build cool fun ideas like [ChatVibe](https://chat-vibe-eosin.vercel.app/) in under a weekend 😁<br>  
+🌱 Currently growing [cursor.show](https://cursor.show) to be the top spotlight for Cursor projects :D<br>  
+💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yayaq) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yayaq1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yayaq9788) 
