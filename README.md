@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I’m bringing Cursor to Pakistan!<br>  
+🌟 I’m bringing [Cursor]([https://cursor.com/]) to Pakistan!<br>  
 🔭 I’m currently working on FASTrack, a fully automated recruitment assistant and multiple AI products<br>
 👯 I’m looking to collaborate on Data Science / AI & Full stack projects<br>  
 🤝 I’m looking to build cool fun ideas like [ChatVibe](https://chat-vibe-eosin.vercel.app/) in under a weekend 😁<br>  
