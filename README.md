@@ -1,6 +1,7 @@
 # 💫 About Me:
-🌟 I’m bringing [Cursor]([https://cursor.com/]) to Pakistan!<br>  
-🔭 I’m currently working on FASTrack, a fully automated recruitment assistant and multiple AI products<br><br>
+🌟 I’m bringing [Cursor]([https://cursor.com/]) to Pakistan!<br>
+🤍 Love spending my time profesionally advising startups, product builders, and more<br><br>
+🔭 I’m previousky worked on Fastrack, a fully automated recruitment assistant and multiple AI products<br><br>
 🤝 I’m looking to build cool fun ideas like [ChatVibe](https://chat-vibe-eosin.vercel.app/) in under a weekend 😁<br>  
 🌱 Currently growing [cursor.show](https://cursor.show) to be the top spotlight for Cursor projects :D<br>  
 💬 Ask me about all kinds of tech! I'm very passionate about it :)<br>
